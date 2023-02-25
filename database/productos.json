@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "title": "Malbec",
+        "description": "Tinto",
+        "code": 33,
+        "price": 300,
+        "status": true,
+        "stock": 100,
+        "category": "vinos",
+        "thumbnails": [
+            "./imgMalbec"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Chardonnay",
+        "description": "Blanco",
+        "code": 75,
+        "price": 300,
+        "status": true,
+        "stock": 100,
+        "category": "Vinos",
+        "thumbnails": [
+            "./imgChardonnay"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Cabernet Sauvignon",
+        "description": "Tinto",
+        "code": 50,
+        "price": 100,
+        "status": true,
+        "stock": 200,
+        "category": "vinos",
+        "thumbnails": [
+            "./imgCabernet"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Proseco",
+        "description": "Espumoso",
+        "code": 50,
+        "price": 100,
+        "status": true,
+        "stock": 1000,
+        "category": "vinos",
+        "thumbnails": [
+            "./imgProseco"
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Malbec Gran Reserva",
+        "description": "Tinto",
+        "price": 100,
+        "code": 80,
+        "status": true,
+        "stock": 1000,
+        "category": "vinos",
+        "thumbnails": [
+            "./imgmalbecgran"
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Torrontés",
+        "description": "Blanco",
+        "price": 100,
+        "code": 80,
+        "status": true,
+        "stock": 1000,
+        "category": "vinos",
+        "thumbnails": [
+            "./imgTorrontes"
+        ]
+    },
+    {
+        "id": 7,
+        "title": "CabernetFranc",
+        "description": "Tinto",
+        "price": 100,
+        "code": 80,
+        "status": true,
+        "stock": 1000,
+        "category": "vinos",
+        "thumbnails": [
+            "./imgFranc"
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Carmenere Reserva",
+        "description": "Tinto",
+        "price": 100,
+        "code": 80,
+        "status": true,
+        "stock": 1000,
+        "category": "vinos",
+        "thumbnails": [
+            "./imgCarmenere"
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Sauvignon Blanc",
+        "description": "Blanco",
+        "price": 100,
+        "code": 80,
+        "status": true,
+        "stock": 1000,
+        "category": "Vinos",
+        "thumbnails": [
+            "./imgSauvignon"
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Cabernet Sauvignon Gran Reserva",
+        "description": "Tinto",
+        "price": 100,
+        "code": 80,
+        "status": true,
+        "stock": 1000,
+        "category": "vinos",
+        "thumbnails": [
+            "./imgCabernetGR"
+        ]
+    }
+]
